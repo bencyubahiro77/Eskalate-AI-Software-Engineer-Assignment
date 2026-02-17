@@ -1,12 +1,5 @@
 # AI Experts Assignment (JS/TS)
 
-This assignment evaluates your ability to:
-
-- set up a small JavaScript/TypeScript project to run reliably (locally + in Docker),
-- pin dependencies for reproducible installs,
-- write focused tests to reproduce a bug,
-- implement a minimal, reviewable fix.
-
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:

@@ -7,6 +7,12 @@ This assignment evaluates your ability to:
 - write focused tests to reproduce a bug,
 - implement a minimal, reviewable fix.
 
+## Prerequisites
+
+Before you begin, ensure you have the following installed:
+- **Node.js** (LTS version recommended) for running tests locally.
+- **Docker Desktop** installed and running for running tests in a container.
+
 ## Setup and Running Tests
 
 ### Locally
